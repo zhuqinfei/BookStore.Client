@@ -1,0 +1,13 @@
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\BookStore.Client.exe.config
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\BookStore.Client.exe
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\BookStore.Client.pdb
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\EntityFramework.dll
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\EntityFramework.xml
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#练习项目\BookStore.Client\BookStore.Client\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\c#练习项目\BookStore.Client\BookStore.Client\obj\Debug\BookStore.Client.csproj.AssemblyReference.cache
+D:\c#练习项目\BookStore.Client\BookStore.Client\obj\Debug\BookStore.Client.csproj.CoreCompileInputs.cache
+D:\c#练习项目\BookStore.Client\BookStore.Client\obj\Debug\BookStore.Client.csproj.CopyComplete
+D:\c#练习项目\BookStore.Client\BookStore.Client\obj\Debug\BookStore.Client.exe
+D:\c#练习项目\BookStore.Client\BookStore.Client\obj\Debug\BookStore.Client.pdb
